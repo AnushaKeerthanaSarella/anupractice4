@@ -1,0 +1,7 @@
+story 1
+class{
+ String name;
+int id;
+1.not completerd
+
+}
